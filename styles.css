@@ -7,7 +7,8 @@ body {
 .project {
     display: block;
     font-size: 20px;
-    padding-top: 10px;
+    padding-top: 30px;
+    margin-top: 0;
 }
 
 .type {
@@ -36,6 +37,11 @@ body {
 
 #game {
     background-color: green;
+}
+
+#jam {
+    background-color: yellow;
+    color: black;
 }
 
 #platform {
